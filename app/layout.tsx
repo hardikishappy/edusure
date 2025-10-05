@@ -10,7 +10,9 @@ export const metadata: Metadata = {
   title: "Edusure - Clear JEE/NEET, Get Your Fees Back",
   description:
     "India's first Performance-based scholarship fund. If you clear JEE or NEET, we repay 100% of your coaching fees.",
-  generator: "v0.app",
+ icons: {
+    icon: "/favicon-new.png.png" , 
+  },   generator: "v0.app",
 }
 
 export default function RootLayout({
