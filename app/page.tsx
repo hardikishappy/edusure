@@ -308,7 +308,7 @@ export default function Home() {
               </div>
 
               <Button className="w-full mt-6 bg-[#1e3a8a] hover:bg-[#1e3a8a]/90 text-white py-6 text-base font-semibold">
-  Select Installment Plan
+  Coming soon
 </Button>
 
             </div>
@@ -363,7 +363,7 @@ export default function Home() {
                 variant="outline"
                 className="w-full py-6 text-base font-semibold border-2 border-gray-300 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-700 bg-transparent"
               >
-                Select One-Time Payment
+                Coming soon
               </Button>
             </div>
           </div>
