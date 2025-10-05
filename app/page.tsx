@@ -307,9 +307,10 @@ export default function Home() {
                 </div>
               </div>
 
-              <Button className="w-full bg-[#1e3a8a] hover:bg-[#1e3a8a]/90 text-white py-6 text-base font-semibold">
-                Select Installment Plan
-              </Button>
+              <Button className="w-full mt-6 bg-[#1e3a8a] hover:bg-[#1e3a8a]/90 text-white py-6 text-base font-semibold">
+  Select Installment Plan
+</Button>
+
             </div>
 
             {/* One-Time Payment Card */}
@@ -380,9 +381,10 @@ export default function Home() {
     edusure.in.org@gmail.com
   </a>
 
-  <p className="text-sm text-gray-400 mt-4">
-    Made with <span className="text-red-500">❤️</span> by Hardik Agrawal
-  </p>
+ <p className="text-sm text-gray-400 mt-4">
+  Made with <span className="text-red-500">❤️</span> and ☕ by Hardik Agrawal
+</p>
+
 </footer>
 
 
